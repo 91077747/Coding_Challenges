@@ -1,6 +1,6 @@
 /*
  * Author: Victoria Haan
- * Created:
+ * Created:9/20/17
  * Description: Three parts to this problem: 
 1) Print the integers 0 through 9 to the console (remember, that’s 10 numbers!).
 2) Print a blank line
